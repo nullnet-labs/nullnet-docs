@@ -10,7 +10,7 @@ I also want business logic to be kept out of the frontend, so this layer must be
 
 ## Decision
 
-Use Java (JDK 21) Spring Boot for the backend.
+Use Spring Boot (Java 21) for the backend.
 
 ## Why
 
