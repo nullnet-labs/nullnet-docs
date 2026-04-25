@@ -28,7 +28,7 @@ Use Java (JDK 21) Spring Boot for the backend.
 
 - Java 21 is the latest LTS JDK version that's fully supported by powerful development tools such as Lombok
 - Spring Boot 4.0.6 is the latest stable Spring Boot version at the time of writing
-- Maven is the build tool with which I have the most familiarity
+- Maven is the build tool with which I'm the most familiar
 
 ## Tradeoffs
 
