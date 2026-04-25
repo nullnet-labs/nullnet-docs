@@ -1,4 +1,4 @@
-# Why Java Spring Boot for Backend
+# Why Java 21 Spring Boot for Backend
 
 ## Context
 
@@ -10,7 +10,7 @@ I also want business logic to be kept out of the frontend, so this layer must be
 
 ## Decision
 
-Use Java Spring Boot for the backend.
+Use Java (JDK 21) Spring Boot for the backend.
 
 ## Why
 
@@ -24,6 +24,12 @@ Use Java Spring Boot for the backend.
 - Manageable development experience that still maintains the required flexibility
 - Mature ecosystem for configuration, security, persistence (JPA), and other supporting sub-systems
 
+#### Environment / Constraints
+
+- Java 21 is the latest LTS JDK version that's fully supported by powerful development tools such as Lombok
+- Spring Boot 4.0.6 is the latest stable Spring Boot version at the time of writing
+- Maven is the build tool with which I have the most familiarity
+
 ## Tradeoffs
 
 - Complex initial setup
@@ -32,4 +38,4 @@ Use Java Spring Boot for the backend.
 
 ## Notes
 
-Developer capability is a part of system design. I've used other backend technologies in a learning & demonstration capacity, but I want a professional-level product, which is best guaranteed by investing proven professional-level skill.
+Developer capability is a part of system design. I've used other backend technologies in a learning & demonstration capacity, but I want a professional-level product, which is best guaranteed by applying proven professional-level skill.
