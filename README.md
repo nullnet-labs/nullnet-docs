@@ -2,13 +2,13 @@
 
 This repository contains engineering & development documentation for the Nullnet project.
 
-This documentation aims to make the system traceable, replicable, demonstrable, and transparent, in both how it works and how it was created.
+This documentation aims to make the system traceable, replicable, demonstrable, and transparent, in both how it works and how it was created. I'm following [the Diataxis approach to technical documentation authorship](https://diataxis.fr/).
 
 # Application Overview
 
 **Key project goal** - _Provide a publicly available user-friendly human-curated discovery platform for the outer Web._
 
-**Tech Stack:**
+**Baseline Tech Stack:**
 - **Frontend:** Next.js (React TypeScript, for UI & SSR)
 - **Backend:** Spring Boot (Java 21, for REST API & business logic)
 - **Database:** PostgreSQL (on AWS RDS)
