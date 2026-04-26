@@ -19,7 +19,7 @@ Use one monolithic repo for the frontend, and use another modular monorepo for t
 ## Tradeoffs
 
 - Cross-deployment communication overhead
-- Backend features have limited ability to scale independently
+- Backend features have limited ability to scale independently from one another
 
 ## Notes
 
