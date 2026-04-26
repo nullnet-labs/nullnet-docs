@@ -2,7 +2,7 @@
 
 This repository contains engineering & development documentation for the Nullnet project.
 
-This documentation aims to make the system traceable, replicable, demonstrable, and transparent, in both how it works and how it was created. I'm following [the Diataxis approach](https://diataxis.fr/) for technical documentation authorship.
+This documentation aims to make the system traceable, replicable, demonstrable, and transparent, in both how it works and how it was created. I'm following [the Diátaxis approach](https://diataxis.fr/) for technical documentation authorship.
 
 # Application Overview
 
