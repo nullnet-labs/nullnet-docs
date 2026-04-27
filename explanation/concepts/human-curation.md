@@ -45,7 +45,7 @@ This concept is informed by several existing systems that demonstrate various in
   - community features that further boost discovery, including "Bandcamp Friday" sharing events, artist following, and multi-artist aggregations by music labels
 - Web forums, chat applications, and Futaba/chan-style imageboards
   - theoretically 100% human-driven content
-  - content discovery via discussion & chronology, not via feeds
+  - content discovery via discussion & chronology, not via personalized feeds
 
 ### Recurring patterns
 - Contextual meaning-based grouping
