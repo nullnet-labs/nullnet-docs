@@ -6,7 +6,7 @@ This documentation aims to make the system traceable, replicable, demonstrable, 
 
 # Application Overview
 
-**Key project goal** - _Provide a publicly available user-friendly human-curated discovery platform for the outer Web._
+**Key project goal** - _Provide a publicly available user-friendly [human-curated](https://github.com/nullnet-labs/nullnet-docs/blob/main/explanation/concepts/human-curation.md) discovery platform for the outer Web._
 
 **Baseline Tech Stack:**
 - **Frontend:** Next.js (React TypeScript, for UI & SSR)
