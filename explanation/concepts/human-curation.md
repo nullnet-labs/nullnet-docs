@@ -31,11 +31,11 @@ This concept is informed by several existing systems that demonstrate various in
   - curators may additionally be found in a small "What Curators Say" section on the Steam store pages for content postings
 - [Neocities](https://neocities.org/browse)
   - minimally curated website list with selectable metrics, simple pagination to find further content, a simple tagging system, and user pages showing who follows whom
-  - an equally if not more important discovery practice is classic-Web link surfing & webrings between the sites themselves, all custom set by the Neocities users who run the pages
+  - an equally if not more important discovery practice is classic-Web link surfing & webrings between the sites themselves, all custom set by the Neocities users who run the Web pages
 - [*booru sites](https://safebooru.org/)
   - massively tag-driven art sharing platforms with user-defined tags, tags assigned to content postings by the user community, and minimal algorithmic interference
-  - includes understated discovery features like "content pools" (user curations of content) and tag aliases to capture searches for similar tags (get "amber_eyes" results when someone searches "golden_eyes")
-  - tags include depth-adding features such as a user-run dictionary for defining tags, and tag types (like content-descriptive tags, metadata tags, tags for who originally created a piece of content, and tags for which copyrighted work is being referenced by fanart)
+  - includes understated discovery features like "content pools" (user curations of content), search operators, tag blacklisting, and tag aliases to capture searches for similar tags (get "amber_eyes" results when someone searches "golden_eyes")
+  - tags include depth-adding features such as a user-run dictionary for defining tags, publicly viewable stats for tags, and tag types (like content-descriptive tags, metadata tags, tags for who originally created a piece of content, and tags for which copyrighted work is being referenced by fanart)
 - [Rate Your Music](https://rateyourmusic.com/)
   - front-page experience encourages finding content through editorially selected user reviews & recently popular content additions
   - deeply user-curated charts, lists, and genre taxonomies
