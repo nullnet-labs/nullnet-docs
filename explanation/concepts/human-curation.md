@@ -31,7 +31,7 @@ This concept is informed by several existing systems that demonstrate various in
   - curators may additionally be found in a small "What Curators Say" section on the Steam store pages for content postings
 - [Neocities](https://neocities.org/browse)
   - minimally curated website list with selectable metrics, simple pagination to find further content, a simple tagging system, and user pages showing who follows whom
-  - an equally if not more important discovery practice is classic-Web link surfing & webrings between the sites themselves
+  - an equally if not more important discovery practice is classic-Web link surfing & webrings between the sites themselves, all custom set by the Neocities users who run the pages
 - [*booru sites](https://safebooru.org/)
   - massively tag-driven art sharing platforms with user-defined tags, tags assigned to content postings by the user community, and minimal algorithmic interference
   - includes understated discovery features like "content pools" (user curations of content) and tag aliases to capture searches for similar tags (get "amber_eyes" results when someone searches "golden_eyes")
