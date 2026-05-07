@@ -31,5 +31,3 @@ Use Next.js with an SSR strategy for the frontend.
 ## Notes
 
 This decision prioritizes both manageable development for a smooth developer experience and non-browser-intensive rendering for a smooth user experience.
-
-Additionally, at the time of writing, my UI development experience is mostly outside of professional environments, so there may be an industry familiarity gap between my front-end & back-end builds. My UI work may not look as familiar to the professional developer, in terms of standard practices & current conventions. However, BECAUSE much of my UI experience is independent & self-driven, this application may be able to deliver designs & behaviors that are presently unique in the Next.js development ecosystem.
