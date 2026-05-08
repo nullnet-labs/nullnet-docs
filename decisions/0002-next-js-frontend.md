@@ -1,4 +1,4 @@
-# Why Next.JS for Frontend
+# Why Next.js for Frontend
 
 ## Context
 
@@ -21,6 +21,7 @@ Use Next.js with an SSR strategy for the frontend.
 
 - **Typescript** will aid in reducing error potential during development
 - The "app router" routing paradigm will be used in place of the "pages router" paradigm that's currently being phased out
+- At the time of writing, the latest stable Next.js environment uses Next version 16.2.6, along with React & React DOM version 19.2.4
 
 ## Tradeoffs
 
