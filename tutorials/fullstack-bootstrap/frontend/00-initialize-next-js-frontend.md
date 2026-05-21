@@ -86,7 +86,7 @@ Ensure the application runs.
 
 <details>
   <summary>
-    Click here to see my package.json
+    Click here to see my initial package.json
   </summary>
 
   ```
@@ -118,4 +118,56 @@ Ensure the application runs.
     }
 }
   ```
+</details>
+
+<details>
+  <summary>
+    Click here to see my initial .gitignore
+  </summary>
+
+```
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+# .env*.local
+# .env
+.env*
+!.env.template
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+```
 </details>
