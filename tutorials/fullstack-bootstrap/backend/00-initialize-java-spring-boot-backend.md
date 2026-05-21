@@ -117,6 +117,9 @@ NOTE: This is to begin the initial project as a modular monolith. If the applica
   - `spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect`
   - `spring.jpa.show-sql=true`
   - `spring.jpa.hibernate.ddl-auto=create-drop`
+- Ensure these are in the project's `.gitignore`
+  - `data/*.db`
+  - `.log.*.gz`
 - Place these additional items in the `pom.xml` file:
   - Between `<properties>` and `</properties>` tags:
     - `<sonar.projectKey>Myapp-Backend</sonar.projectKey>`
@@ -707,6 +710,94 @@ spring.jpa.hibernate.ddl-auto=create-drop
 		</plugins>
 	</reporting>
 </project>
+
+```
+</details>
+
+<details>
+  <summary>
+    Click here to see my initial .gitignore
+  </summary>
+
+```
+### BASICS ###
+
+# Compiled class file
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+### SPRING INITIALIZR BASICS ###
+HELP.md
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://maven.apache.org/wrapper/#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+### Eclipse Core ###
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### H2 Local Database ###
+data/*.db
+
+### Logging ###
+*.log
+*.log.*.gz
 
 ```
 </details>
