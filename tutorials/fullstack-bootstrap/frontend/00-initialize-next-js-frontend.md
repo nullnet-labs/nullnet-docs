@@ -102,9 +102,9 @@ Ensure the application runs.
       "lint:fix": "eslint --fix"
     },
     "dependencies": {
-      "next": "16.2.6",
-      "react": "19.2.6",
-      "react-dom": "19.2.6"
+      "next": "^16.2.6",
+      "react": "^19.2.6",
+      "react-dom": "^19.2.6"
     },
     "devDependencies": {
       "@tailwindcss/postcss": "^4",
