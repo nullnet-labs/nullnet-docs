@@ -100,6 +100,7 @@ NOTE: This is to begin the initial project as a modular monolith. If the applica
           - Name: `DB_USERNAME`, Value: `sa`
           - Name: `DB_PASSWORD`, Value: ``
             - If the variable doesn't appear after entering no value, you may add a dummy value to initialize the variable, then press `Edit...` to empty its value while keeping the variable
+        - Press `Apply` and close the Run Configurations window
   - Basic logging config
     - `logging.file.name=application.log`
     - `logging.level.org.springframework.web=INFO`
@@ -126,6 +127,7 @@ NOTE: This is to begin the initial project as a modular monolith. If the applica
           - Name: `SONAR_TOKEN`, Value: ``
             - If the variable doesn't appear after entering no value, you may add a dummy value to initialize the variable, then press `Edit...` to empty its value while keeping the variable
             - You can come back and fill in this value when SonarQube is set up
+          - Press `Apply` and close the Run Configurations window
 
 ## Run Check
 
