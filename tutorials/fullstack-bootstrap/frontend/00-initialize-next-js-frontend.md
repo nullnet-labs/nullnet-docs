@@ -89,7 +89,7 @@ Ensure the application runs.
     Click here to see my initial package.json
   </summary>
 
-  ```
+```
 {
     "name": "nullnet-frontend",
     "version": "0.1.0",
@@ -103,8 +103,8 @@ Ensure the application runs.
     },
     "dependencies": {
       "next": "16.2.6",
-      "react": "19.2.4",
-      "react-dom": "19.2.4"
+      "react": "19.2.6",
+      "react-dom": "19.2.6"
     },
     "devDependencies": {
       "@tailwindcss/postcss": "^4",
@@ -117,7 +117,7 @@ Ensure the application runs.
       "typescript": "^5"
     }
 }
-  ```
+```
 </details>
 
 <details>
